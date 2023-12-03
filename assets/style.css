@@ -1,0 +1,62 @@
+.barra-d-nave{
+    display: flex;
+    justify-content: center;
+}
+
+.primera-parte{
+    background-color: rgb(33, 37, 41);
+    color: white;
+    text-align: center;
+    font-family: 'Hedvig Letters Serif', serif;
+    font-size: 80px;
+
+}
+
+
+.imagen-texto{
+    display: flex;
+    justify-content: center;
+    background-color: #C0B283;
+    color:white;
+    text-align: justify;
+    align-items: center; 
+}
+
+.pojects{
+text-align: center;
+background-color: #C0B283;
+color:white;
+font-family: 'Hedvig Letters Serif', serif;
+align-items: center;
+padding-top: 50px;
+
+}
+
+.links-proyectos{
+display: contents;
+justify-content: space-between;
+text-align: justify;
+
+}
+
+.pojects img{
+width: 380px;
+height:auto;
+margin: 30px;
+}
+
+.social-media{
+    background-color: rgb(33, 37, 41);
+    color:white;
+    text-align: center;
+    align-items: baseline;
+    padding: 20px;
+
+}
+.iconos-rs{
+    display: flex;
+    justify-content: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
